@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(239, 239, 239);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.smaller-image {
+  width: 250px;
+  border-radius: 50%;
+  position: relative;
+  top: 50px;
+  left: 20%;
+}
+
+.box{
+  display:inline-block;
+  width: 40x;
+  height:20px;
+  color:white;
+  background-color:rgb(151, 140, 140);
+  border-radius:2px;
+  
+}
+
+.flex{
+  display :flex;
+  flex-direction:row
+  justify-content:
+  
+  
+  
+}
+
+
+
+.skill__list {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.list-item {
+  padding: 10px;
+  background-color: #252629;
+  color: #ffffff;
+  border-radius: 10px;
+}
